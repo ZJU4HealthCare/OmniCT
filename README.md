@@ -6,7 +6,7 @@ OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis
 
 Tianwei Lin<sup>1,2*</sup>, Zhongwei Qiu<sup>2,3,1*</sup>, Wenqiao Zhang<sup>1†</sup>, Jiang Liu<sup>1</sup>, Yihan Xie<sup>1</sup>, <br>
 Mingjian Gao<sup>1</sup>, Zhenxuan Fan<sup>1</sup>, Zhaocheng Li<sup>1</sup>, Sijing Li<sup>1,2</sup>, Zhongle Xie<sup>1</sup>, <br>
-Peng LU<sup>1</sup>, Yueting Zhuang<sup>1</sup>, Yingda Xia<sup>2</sup>, Ling Zhang<sup>2</sup>, Beng Chin Ooi<sup>1</sup> <br>
+Peng Lu<sup>1</sup>, Yueting Zhuang<sup>1</sup>, Ling Zhang<sup>2</sup>, Beng Chin Ooi<sup>1</sup>, Yingda Xia<sup>2</sup><br>
 
 <sup>1</sup>Zhejiang University <sup>2</sup>DAMO Academy, Alibaba Group <sup>3</sup>Hupan Lab
 <br>
