@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omnict"
+version = "0.1.0"
+description = "OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "torch==2.7.1",
+    "torchvision==0.22.1",
+    "torchaudio==2.7.1",
+    "transformers[deepspeed]==4.57.3",
+    "accelerate>=1.3.0,<=1.11.0",
+    "peft>=0.17.2,<=0.18.1",
+    "monai==1.3.0",
+    "nibabel",
+    "scipy",
+    "einops>=0.8.0",
+    "sentencepiece>=0.2.0",
+    "scikit-learn>=1.7.0",
+    "numpy==1.26.4",
+    "swanlab",
+    "tqdm"
+]
+
+[project.urls]
+Paper = "https://arxiv.org/abs/2602.16110"
